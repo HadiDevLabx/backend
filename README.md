@@ -1,6 +1,3 @@
-# Let's create the README.md file with the provided content
-
-readme_content = """
 # Task Management API
 
 This is a Task Management API built with Node.js and Express. It includes user authentication and task management functionalities, with MongoDB as the database.
