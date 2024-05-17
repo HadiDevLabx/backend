@@ -19,7 +19,9 @@ app.use(compression());
 
 app.use('/api/auth', authRoutes);
 app.use('/api/tasks', taskRoutes);
-
+app.get('/', (req, res) => {
+  res.send('Welcome to the Task Management API');
+});
 app.all("*", (req, res, next) => {
   const err = new Error(`Can't find ${req.originalUrl} on this server`);
   err.status = 404;
