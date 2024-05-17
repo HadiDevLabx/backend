@@ -46,6 +46,7 @@ const getTasks = async (req, res) => {
         tasks,
         totalPages: Math.ceil(count / limit),
         currentPage: page,
+        count:count,
       });
     } catch (error) {
       logger.error('Failed to retrieve tasks', { error: error.message });
@@ -95,33 +96,30 @@ const getTasks = async (req, res) => {
   
 
   const deleteTask = async (req, res) => {
-    const { id } = req.body;
+    const { id } = req.query;  
+    const ids = Array.isArray(id) ? id : [id];  
+    console.log('Delete request IDs:', ids);
   
     try {
-      if (Array.isArray(id)) {
-        const tasks = await Task.deleteMany({ _id: { $in: id }, user: req.user.id });
-        if (tasks.deletedCount === 0) {
-          return res.status(404).json({ error: 'No tasks found to delete' });
-        }
-        res.json({ message: 'Tasks deleted successfully' });
-      } else {
-        const task = await Task.findById(id);
+      const tasks = await Task.find({ _id: { $in: ids }, user: req.user.id });
   
-        if (!task) {
-          return res.status(404).json({ error: 'Task not found' });
-        }
-  
-        if (task.user.toString() !== req.user.id) {
-          return res.status(401).json({ error: 'Unauthorized' });
-        }
-  
-        await Task.findByIdAndDelete(id);
-        res.json({ message: 'Task deleted successfully' });
+      if (tasks.length === 0) {
+        return res.status(404).json({ error: 'No tasks found to delete' });
       }
+  
+       const unauthorized = tasks.some(task => task.user.toString() !== req.user.id);
+      if (unauthorized) {
+        return res.status(401).json({ error: 'Unauthorized to delete some tasks' });
+      }
+  
+       const result = await Task.deleteMany({ _id: { $in: ids }, user: req.user.id });
+  
+      res.json({ message: 'Tasks deleted successfully', deletedCount: result.deletedCount });
     } catch (error) {
-      logger.error('Failed to delete task', { error: error.message });
-      res.status(400).json({ error: 'Failed to delete task' });
+      logger.error('Failed to delete task(s)', { error: error.message });
+      res.status(400).json({ error: 'Failed to delete task(s)' });
     }
   };
+  
   
 module.exports = { createTask, getTasks, updateTask, deleteTask };

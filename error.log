@@ -1,0 +1,446 @@
+2024-05-17 11:58:56 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 11:58:56 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 11:59:17 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 11:59:25 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 11:59:27 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 11:59:37 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 11:59:45 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 11:59:47 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:00:02 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:00:02 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:01:28 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:01:28 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:03:22 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:03:27 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:03:29 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:03:31 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:03:42 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:03:42 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:04:31 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:04:34 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:04:36 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:05:23 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:05:31 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:05:31 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:06:10 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:06:50 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:06:56 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:06:56 [31merror[39m: Error: Can't find /api/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 12:37:48 [31merror[39m: Token verification failed
+2024-05-17 12:37:48 [31merror[39m: Token verification failed
+2024-05-17 12:38:09 [31merror[39m: Token verification failed
+2024-05-17 12:38:31 [31merror[39m: Token verification failed
+2024-05-17 12:38:38 [31merror[39m: Token verification failed
+2024-05-17 12:39:11 [31merror[39m: Token verification failed
+2024-05-17 12:39:11 [31merror[39m: Token verification failed
+2024-05-17 12:39:28 [31merror[39m: Token verification failed
+2024-05-17 12:39:28 [31merror[39m: Token verification failed
+2024-05-17 12:39:58 [31merror[39m: Token verification failed
+2024-05-17 12:39:59 [31merror[39m: Token verification failed
+2024-05-17 12:40:20 [31merror[39m: Token verification failed
+2024-05-17 12:40:51 [31merror[39m: Token verification failed
+2024-05-17 12:40:56 [31merror[39m: Token verification failed
+2024-05-17 12:41:51 [31merror[39m: Token verification failed
+2024-05-17 12:41:51 [31merror[39m: Token verification failed
+2024-05-17 12:42:54 [31merror[39m: Token verification failed
+2024-05-17 12:42:54 [31merror[39m: Token verification failed
+2024-05-17 12:43:30 [31merror[39m: Token verification failed
+2024-05-17 12:43:34 [31merror[39m: Token verification failed
+2024-05-17 12:43:34 [31merror[39m: Token verification failed
+2024-05-17 12:43:41 [31merror[39m: Token verification failed
+2024-05-17 12:43:41 [31merror[39m: Token verification failed
+2024-05-17 12:43:42 [31merror[39m: Token verification failed
+2024-05-17 12:43:55 [31merror[39m: Token verification failed
+2024-05-17 12:43:55 [31merror[39m: Token verification failed
+2024-05-17 12:46:32 [31merror[39m: Token verification failed
+2024-05-17 12:46:32 [31merror[39m: Token verification failed
+2024-05-17 12:46:35 [31merror[39m: Token verification failed
+2024-05-17 12:46:35 [31merror[39m: Token verification failed
+2024-05-17 12:46:52 [31merror[39m: Token verification failed
+2024-05-17 12:46:53 [31merror[39m: Token verification failed
+2024-05-17 12:47:05 [31merror[39m: Token verification failed
+2024-05-17 12:47:06 [31merror[39m: Token verification failed
+2024-05-17 12:47:07 [31merror[39m: Token verification failed
+2024-05-17 12:47:10 [31merror[39m: Token verification failed
+2024-05-17 12:47:10 [31merror[39m: Token verification failed
+2024-05-17 12:48:49 [31merror[39m: Token verification failed
+2024-05-17 12:48:53 [31merror[39m: Token verification failed
+2024-05-17 12:48:53 [31merror[39m: Token verification failed
+2024-05-17 12:49:11 [31merror[39m: Token verification failed
+2024-05-17 12:49:13 [31merror[39m: Token verification failed
+2024-05-17 12:49:13 [31merror[39m: Token verification failed
+2024-05-17 12:49:24 [31merror[39m: Token verification failed
+2024-05-17 12:49:26 [31merror[39m: Token verification failed
+2024-05-17 12:49:26 [31merror[39m: Token verification failed
+2024-05-17 12:50:11 [31merror[39m: Token verification failed
+2024-05-17 12:50:12 [31merror[39m: Token verification failed
+2024-05-17 12:50:33 [31merror[39m: Token verification failed
+2024-05-17 12:50:33 [31merror[39m: Token verification failed
+2024-05-17 13:06:30 [31merror[39m: Error: Can't find /api/tasks/tasks/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 13:06:30 [31merror[39m: Error: Can't find /api/tasks/tasks/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 13:07:16 [31merror[39m: Error: Can't find /api/tasks/tasks/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 13:07:18 [31merror[39m: Error: Can't find /api/tasks/tasks/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 13:07:22 [31merror[39m: Error: Can't find /api/tasks/tasks/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 13:07:22 [31merror[39m: Error: Can't find /api/tasks/tasks/getTasks on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 14:06:47 [31merror[39m: Error: Can't find /api/tasks/tasks/createTask on this server
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\app.js:26:15
+    at Layer.handle [as handle_request] (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\express\lib\router\route.js:145:7)
+2024-05-17 14:09:25 [31merror[39m: SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\hadid\OneDrive\Desktop\task-manager\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
